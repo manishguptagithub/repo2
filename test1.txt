@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is FA09-1D74
+
+ Directory of C:\Users\manish.gupta\Desktop\MyProject
+
+12-01-2020  23:35    <DIR>          .
+12-01-2020  23:35    <DIR>          ..
+12-01-2020  23:35                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  653,358,931,968 bytes free
